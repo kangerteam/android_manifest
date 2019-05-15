@@ -112,6 +112,7 @@
   <project path="system/update_engine" name="android_system_update_engine" remote="los" />
 
   <!-- Vendor -->
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="los" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="los" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_external_libnfc-nci" remote="los" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_frameworks" remote="los" />
